@@ -1,5 +1,5 @@
 # FarmGame
-Hello and welcome to our group's coding project, the group members are Flynn, Edward and Phuc.
+Hello and welcome to our group's coding project, the group members are Phuc, Flynn, Edward.
 For this project we created a farm simulator game called farmville, which is played with a mixture of the terminal and sfml
 graphics. This game is allows users to simulate farm life including the planting and harvesting of crops, and the 
 ownership of animals, which can be harvested for their products or slaughtered for their meat. On each day, 
@@ -19,4 +19,4 @@ do not stress though, instructions will help you in every step of the way!
 
 Enjoy the game!
 
-From Flynn Edward and Phuc
+From Phuc Flynn Edward
