@@ -1,3 +1,10 @@
+# Installation
+make sure you have SFML installed on your linux machine  
+git clone https://github.com/Phuc-Nguyenn/Agriculture-Game.git AgricultureGame  
+cd AgricultureGame  
+make OS=linux  
+./farmgame_linux 
+
 # FarmGame
 Hello and welcome to our group's coding project, the group members are Phuc, Flynn, Edward.
 For this project we created a farm simulator game called farmville, which is played with a mixture of the terminal and sfml
