@@ -5,7 +5,11 @@ cd AgricultureGame
 make OS=linux  
 ./farmgame_linux 
 
+
+
 # FarmGame
+![image](https://github.com/Phuc-Nguyenn/Agriculture-Game/assets/109639512/17936630-e743-47ae-94b3-2b6ddc4b9e15)
+
 Hello and welcome to our group's coding project, the group members are Phuc, Flynn, Edward.
 For this project we created a farm simulator game called farmville, which is played with a mixture of the terminal and sfml
 graphics. This game is allows users to simulate farm life including the planting and harvesting of crops, and the 
